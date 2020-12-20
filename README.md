@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Hans-Jakob Brandt and I'm a front-end developer/interaction designer. I'm from Nuuk, Greenland living in Oslo, Norway and currently working at [Making Waves](https://makingwaves.com/). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hans-Jakob Brandt and I'm an interactive designer/developer. I'm from Nuuk, Greenland living in Oslo, Norway and currently working at [Vev](https://vev.design). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 <!-- links to social media icons -->
