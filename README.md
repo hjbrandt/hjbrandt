@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Hans-Jakob Brandt and I'm an interaction designer/developer. I'm from Nuuk, Greenland living in Oslo, Norway. You can read my (CV)[4] or find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hans-Jakob Brandt and I'm an interaction designer/developer. I'm from Nuuk, Greenland living in Oslo, Norway. You can read my [CV][4] or find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 <!-- links to social media icons -->
