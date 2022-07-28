@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Hans-Jakob Brandt and I'm an interactive designer/developer. I'm from Nuuk, Greenland living in Oslo, Norway and currently working at [Vev](https://vev.design). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hans-Jakob Brandt and I'm an interaction designer/developer. I'm from Nuuk, Greenland living in Oslo, Norway. You can read my [![CV][4]] or find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 <!-- links to social media icons -->
@@ -22,6 +22,7 @@ My name is Hans-Jakob Brandt and I'm an interactive designer/developer. I'm from
 [1]: https://twitter.com/hj_brandt
 [2]: https://github.com/hjbrandt
 [3]: https://www.linkedin.com/in/hansjakobbrandt/
+[4]: https://read.cv/hjbrandt
 
 
 <!-- Resources -->
