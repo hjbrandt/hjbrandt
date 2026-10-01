@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Hans-Jakob Brandt and I'm an AI Operator and founder of [Hanlon][1]. I'm from Nuuk, Greenland living in Oslo, Norway. You can check out my personal [site][5], read my [CV][4] or find me on [![LinkedIn][3.2]][3].
+My name is Hans-Jakob Brandt and I'm a Designer turned AI Operator and founder of [Hanlon][1]. I'm from Nuuk, Greenland living in Oslo, Norway. You can check out my personal [site][5], read my [CV][4] or find me on [![LinkedIn][3.2]][3].
 
 
 <!-- links to social media icons -->
